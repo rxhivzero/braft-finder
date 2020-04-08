@@ -11,6 +11,7 @@ export default {
   "en": en,
   "zh": zh,
   "zh-hant": zhHant,
+  "zh_tw": zhHant,
   "pl": pl,
   "kr": kr,
   "jpn": jpn,
